@@ -1,0 +1,36 @@
+[19-Dec-2019 02:14:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/clouddar/apps.clouddark.xyz/simplecrud/crud-php7-master/koneksi.php on line 6
+[19-Dec-2019 02:14:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/clouddar/apps.clouddark.xyz/simplecrud/crud-php7-master/koneksi.php:9
+Stack trace:
+#0 /home/clouddar/apps.clouddark.xyz/simplecrud/crud-php7-master/index.php(2): include()
+#1 {main}
+  thrown in /home/clouddar/apps.clouddark.xyz/simplecrud/crud-php7-master/koneksi.php on line 9
+[19-Dec-2019 02:15:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php on line 6
+[19-Dec-2019 02:15:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php:9
+Stack trace:
+#0 /home/clouddar/apps.clouddark.xyz/simplecrud/index.php(2): include()
+#1 {main}
+  thrown in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php on line 9
+[19-Dec-2019 02:17:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'clouddar_clouddar_cloouddark'@'localhost' (using password: YES) in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php on line 6
+[19-Dec-2019 02:17:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php:9
+Stack trace:
+#0 /home/clouddar/apps.clouddark.xyz/simplecrud/index.php(2): include()
+#1 {main}
+  thrown in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php on line 9
+[19-Dec-2019 02:17:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'clouddar_clouddar_cloouddark'@'localhost' (using password: YES) in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php on line 6
+[19-Dec-2019 02:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php:9
+Stack trace:
+#0 /home/clouddar/apps.clouddark.xyz/simplecrud/index.php(2): include()
+#1 {main}
+  thrown in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php on line 9
+[19-Dec-2019 02:18:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'clouddar_clouddar_cloouddark'@'localhost' (using password: YES) in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php on line 6
+[19-Dec-2019 02:18:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php:9
+Stack trace:
+#0 /home/clouddar/apps.clouddark.xyz/simplecrud/index.php(2): include()
+#1 {main}
+  thrown in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php on line 9
+[19-Dec-2019 02:18:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'clouddar_clouddar_cloouddark'@'localhost' (using password: YES) in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php on line 6
+[19-Dec-2019 02:18:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php:9
+Stack trace:
+#0 /home/clouddar/apps.clouddark.xyz/simplecrud/index.php(2): include()
+#1 {main}
+  thrown in /home/clouddar/apps.clouddark.xyz/simplecrud/koneksi.php on line 9
